@@ -1,0 +1,7 @@
+Flask
+transformers
+torch
+torchaudio
+whisper
+soundfile
+TTS
